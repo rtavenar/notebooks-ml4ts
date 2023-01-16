@@ -1,0 +1,3 @@
+tslearn
+librosa
+celluloid
