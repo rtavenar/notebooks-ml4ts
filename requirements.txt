@@ -1,3 +1,6 @@
 tslearn
 librosa
 celluloid
+keras>=3.0
+pytorch
+tensorflow
